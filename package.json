@@ -1,0 +1,24 @@
+{
+  "name": "lab-store",
+  "version": "1.0.0",
+  "description": "",
+
+  "main": "index.js",
+  
+  "engines": {
+    "node": "10.x"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kareemegy/Labtop-store.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kareemegy/Labtop-store/issues"
+  },
+  "homepage": "https://github.com/kareemegy/Labtop-store#readme"
+}
